@@ -30,8 +30,9 @@ while True:
         print("sum of all numbers form" , start ,"to" , end , "is:" , total)
 
     elif choice == 3:
-        print("\n======exiting the program. Good Buy ======")
+        print("\n======exiting the program. Good bye ======")
         break
+
 
 
 
